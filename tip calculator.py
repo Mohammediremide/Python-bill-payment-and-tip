@@ -1,6 +1,8 @@
 def calculate_tip(bill_amount, tip_percentage):
     return bill_amount * (tip_percentage / 100)
 
+#ok i have forked and cloned this repo
+
 def calculate_total(bill_amount, tip_amount):
     return bill_amount + tip_amount
 
